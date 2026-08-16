@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0575-distribute-candies](https://github.com/HAZE-16/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0658-find-k-closest-elements](https://github.com/HAZE-16/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/HAZE-16/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/HAZE-16/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
