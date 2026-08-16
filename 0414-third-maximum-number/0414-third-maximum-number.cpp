@@ -2,23 +2,20 @@ class Solution {
 public:
     int thirdMax(vector<int>& nums) {
 
-        sort(nums.begin(), nums.end());
-
-        priority_queue<int, vector<int>, greater<int>> pq;
-
-        int n = nums.size();
-
-        if(n == 2)
-        {
-            return nums[n - 1];
-        }
-
         unordered_set<int> st;
 
         for(int num : nums)
         {
             st.insert(num);
         }
+
+        // Less than 3 distinct numbers
+        if(st.size() < 3)    // if n == 2 return last elemnt 
+        {
+            return *max_element(st.begin(), st.end());
+        }
+
+        priority_queue<int, vector<int>, greater<int>> pq;
 
         for(int num : st)
         {
@@ -28,11 +25,6 @@ public:
             {
                 pq.pop();
             }
-        }
-
-        if(pq.size() < 3)
-        {
-            return nums[n - 1];
         }
 
         return pq.top();
