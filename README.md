@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/HAZE-16/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/HAZE-16/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/HAZE-16/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/HAZE-16/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/HAZE-16/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HAZE-16/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/HAZE-16/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
