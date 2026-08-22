@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/HAZE-16/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HAZE-16/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
 |  |
 | ------- |
