@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/HAZE-16/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/HAZE-16/leetcode-solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0179-largest-number) |
+| [0228-summary-ranges](https://github.com/HAZE-16/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/HAZE-16/leetcode-solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0414-third-maximum-number) |
