@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HAZE-16/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HAZE-16/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/HAZE-16/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HAZE-16/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
