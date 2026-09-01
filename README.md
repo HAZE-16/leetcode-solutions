@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/HAZE-16/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HAZE-16/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/HAZE-16/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/HAZE-16/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HAZE-16/leetcode-solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/HAZE-16/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0973-k-closest-points-to-origin](https://github.com/HAZE-16/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HAZE-16/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/HAZE-16/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HAZE-16/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
