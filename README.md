@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/HAZE-16/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/HAZE-16/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HAZE-16/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/HAZE-16/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/HAZE-16/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/HAZE-16/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/HAZE-16/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Counting Sort
 |  |
