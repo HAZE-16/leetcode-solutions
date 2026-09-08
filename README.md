@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HAZE-16/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/HAZE-16/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/HAZE-16/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/HAZE-16/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/HAZE-16/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HAZE-16/leetcode-solutions/tree/master/0205-isomorphic-strings) |
