@@ -4,41 +4,39 @@ public:
 
         int n = score.size();
 
-        vector<int> temp(n, 0);
+        vector<int> temp = score;
+        sort(temp.begin(), temp.end(), greater<int>());  //reverse(temp) work same 
+
+    
+        map<int, int> mp;      //sccore -> rank 
 
         for(int i = 0; i < n; i++)
         {
-            temp[i] = score[i];
+            mp[temp[i]] = i + 1;
         }
-
-        sort(temp.begin(), temp.end(), greater<int>());
 
         vector<string> ans;
 
+        // Go through original score array
         for(int i = 0; i < n; i++)
         {
-            if(score[i] == temp[0])
+            int rank = mp[score[i]];
+
+            if(rank == 1)
             {
                 ans.push_back("Gold Medal");
             }
-            else if(n > 1 && score[i] == temp[1])
+            else if(rank == 2)
             {
                 ans.push_back("Silver Medal");
             }
-            else if(n > 2 && score[i] == temp[2])
+            else if(rank == 3)
             {
                 ans.push_back("Bronze Medal");
             }
             else
             {
-                for(int j = 3; j < n; j++)
-                {
-                    if(score[i] == temp[j])       //temp is sorted so j + 1 is rank of score[i];
-                    {
-                        ans.push_back(to_string(j + 1));    //index + 1
-                        break;
-                    }
-                }
+                ans.push_back(to_string(rank));
             }
         }
 
