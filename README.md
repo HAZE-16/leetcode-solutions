@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/HAZE-16/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/HAZE-16/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/HAZE-16/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/HAZE-16/leetcode-solutions/tree/master/0134-gas-station) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/HAZE-16/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/HAZE-16/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/HAZE-16/leetcode-solutions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HAZE-16/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
