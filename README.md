@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/HAZE-16/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HAZE-16/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/HAZE-16/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/HAZE-16/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Heap (Priority Queue)
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/HAZE-16/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/HAZE-16/leetcode-solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0179-largest-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HAZE-16/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
