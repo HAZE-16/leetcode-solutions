@@ -7,7 +7,7 @@ public:
         int j = n-1;
         int sum = 0;
         int ans = 0;
-        while(i < j)
+        while(i < n/2)
         {
             sum = nums[i] + nums[j];
              ans = max(ans,sum);
