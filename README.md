@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HAZE-16/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3713-longest-balanced-substring-i](https://github.com/HAZE-16/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HAZE-16/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/HAZE-16/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/HAZE-16/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/HAZE-16/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3713-longest-balanced-substring-i](https://github.com/HAZE-16/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3713-longest-balanced-substring-i](https://github.com/HAZE-16/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Quicksort
 |  |
 | ------- |
