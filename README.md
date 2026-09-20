@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HAZE-16/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2963-count-the-number-of-good-partitions](https://github.com/HAZE-16/leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HAZE-16/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HAZE-16/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HAZE-16/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2963-count-the-number-of-good-partitions](https://github.com/HAZE-16/leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HAZE-16/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HAZE-16/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/HAZE-16/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/HAZE-16/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2963-count-the-number-of-good-partitions](https://github.com/HAZE-16/leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HAZE-16/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/HAZE-16/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/HAZE-16/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/HAZE-16/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/HAZE-16/leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
