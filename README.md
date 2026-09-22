@@ -288,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/HAZE-16/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/HAZE-16/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
