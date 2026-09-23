@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/HAZE-16/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/HAZE-16/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/HAZE-16/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0991-broken-calculator](https://github.com/HAZE-16/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2963-count-the-number-of-good-partitions](https://github.com/HAZE-16/leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HAZE-16/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/HAZE-16/leetcode-solutions/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/HAZE-16/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/HAZE-16/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/HAZE-16/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HAZE-16/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
