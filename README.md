@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/HAZE-16/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/HAZE-16/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HAZE-16/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/HAZE-16/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HAZE-16/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
