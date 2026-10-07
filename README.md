@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/HAZE-16/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HAZE-16/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HAZE-16/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/HAZE-16/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HAZE-16/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HAZE-16/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/HAZE-16/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/HAZE-16/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/HAZE-16/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/HAZE-16/leetcode-solutions/tree/master/0991-broken-calculator) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/HAZE-16/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2963-count-the-number-of-good-partitions](https://github.com/HAZE-16/leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HAZE-16/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -317,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HAZE-16/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HAZE-16/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HAZE-16/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/HAZE-16/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/HAZE-16/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
