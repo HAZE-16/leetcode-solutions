@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/HAZE-16/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/HAZE-16/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HAZE-16/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2235-add-two-integers](https://github.com/HAZE-16/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2963-count-the-number-of-good-partitions](https://github.com/HAZE-16/leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HAZE-16/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HAZE-16/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
